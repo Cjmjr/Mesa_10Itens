@@ -1758,3 +1758,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.14-04.28.10:096][203]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2022.09.14-04.28.10:293][203]LogExit: Preparing to exit.
 [2022.09.14-04.28.11:517][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.09.14-04.28.14:513][203]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-04.28.14:556][203]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-04.28.16:040][203]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.09.14-04.28.17:950][203]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-04.28.18:029][203]LogExit: Editor shut down
+[2022.09.14-04.28.18:036][203]LogExit: Transaction tracking system shut down
