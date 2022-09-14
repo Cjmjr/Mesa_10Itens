@@ -1704,3 +1704,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.14-03.57.02:977][740]AssetCheck: New page: Asset Save: multiple assets
 [2022.09.14-03.57.02:977][740]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2022.09.14-03.57.02:977][740]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.09.14-04.07.03:689][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.09.14-04.07.03:692][ 57]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.015
+[2022.09.14-04.07.03:695][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Objects/MESA_E_ITENS_Plane] ([1] browsable assets)...
+[2022.09.14-04.07.03:739][ 57]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Objects/MESA_E_ITENS_Plane.MESA_E_ITENS_Plane]
+[2022.09.14-04.07.03:739][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Objects/MESA_E_ITENS_Plane]
+[2022.09.14-04.07.03:754][ 57]LogSavePackage: Moving '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/MESA_E_ITENS_Plane_Auto1A22F4E764762757FCC5428B3363EAB86.tmp' to '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Autosaves/Game/Objects/MESA_E_ITENS_Plane_Auto1.uasset'
+[2022.09.14-04.07.03:782][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Textura_lapis] ([1] browsable assets)...
+[2022.09.14-04.07.03:792][ 57]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Textura_lapis.Textura_lapis]
+[2022.09.14-04.07.03:792][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Textura_lapis]
+[2022.09.14-04.07.03:797][ 57]LogSavePackage: Moving '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Textura_lapis_Auto183CF5AA34E6A271123B2DEAEA43A1601.tmp' to '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Autosaves/Game/Textures/Textura_lapis_Auto1.uasset'
+[2022.09.14-04.07.03:798][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Textura_celular] ([1] browsable assets)...
+[2022.09.14-04.07.03:803][ 57]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Textura_celular.Textura_celular]
+[2022.09.14-04.07.03:803][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Textura_celular]
+[2022.09.14-04.07.03:852][ 57]LogSavePackage: Moving '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Textura_celular_Auto13EA0FB734472CBAA28C2CA82E84E4286.tmp' to '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Autosaves/Game/Textures/Textura_celular_Auto1.uasset'
+[2022.09.14-04.07.03:854][ 57]LogFileHelpers: Auto-saving content packages took 0.160
+[2022.09.14-04.18.25:642][ 95]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{ef531517-a61f-4225-a5f4-9c171ae5876d}.
+[2022.09.14-04.18.25:642][ 95]LogAudioMixer: Resetting audio stream to device id 
+[2022.09.14-04.18.26:017][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.14-04.18.26:017][ 95]LogAudioMixer: Display: 1: FrontRight
+[2022.09.14-04.27.07:139][647]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{b3e09bd1-c447-403a-9348-9fd1fc23acae}.
+[2022.09.14-04.27.07:139][647]LogAudioMixer: Resetting audio stream to device id 
+[2022.09.14-04.27.07:171][647]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.14-04.27.07:171][647]LogAudioMixer: Display: 1: FrontRight
+[2022.09.14-04.28.02:925][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.14-04.28.05:367][202]LogSlate: Window 'Save Content' being destroyed
+[2022.09.14-04.28.05:416][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Material" FILE="../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Objects/Material.uasset" SILENT=true
+[2022.09.14-04.28.05:483][202]LogSavePackage: Moving '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Material8CC6D49848DD79D7E5978DBB263BD978.tmp' to '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Objects/Material.uasset'
+[2022.09.14-04.28.05:498][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/Material_001" FILE="../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Objects/Material_001.uasset" SILENT=true
+[2022.09.14-04.28.05:518][202]LogSavePackage: Moving '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Material_001A9B6BBE14B936E7FE08E6AAA9AAB36A2.tmp' to '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Objects/Material_001.uasset'
+[2022.09.14-04.28.05:519][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Objects/MESA_E_ITENS_Plane" FILE="../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Objects/MESA_E_ITENS_Plane.uasset" SILENT=true
+[2022.09.14-04.28.05:524][202]LogSavePackage: Moving '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/MESA_E_ITENS_PlaneA115A9BA464CB314DFA0869E0382CD25.tmp' to '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Objects/MESA_E_ITENS_Plane.uasset'
+[2022.09.14-04.28.05:525][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Textura_celular" FILE="../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Textures/Textura_celular.uasset" SILENT=true
+[2022.09.14-04.28.05:542][202]LogSavePackage: Moving '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Textura_celularA4B5DECD42F4BA5AE547C891FC0662FD.tmp' to '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Textures/Textura_celular.uasset'
+[2022.09.14-04.28.05:564][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Textura_lapis" FILE="../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Textures/Textura_lapis.uasset" SILENT=true
+[2022.09.14-04.28.05:592][202]LogSavePackage: Moving '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Saved/Textura_lapisB1FE5A974961B4E49AD115A1E06ED4AD.tmp' to '../../../../1111Memoria Cheia/PUC/4 Semestre/Blender/mesa/Mesa_10Itens/Content/Textures/Textura_lapis.uasset'
+[2022.09.14-04.28.05:912][202]LogSlate: Window 'Mesa_10Itens - Unreal Editor' being destroyed
+[2022.09.14-04.28.08:335][202]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.14-04.28.08:335][202]LogContentValidation: Display: Validating Material /Game/Objects/Material.Material
+[2022.09.14-04.28.08:335][202]LogContentValidation: Display: Validating Material /Game/Objects/Material_001.Material_001
+[2022.09.14-04.28.08:335][202]LogContentValidation: Display: Validating StaticMesh /Game/Objects/MESA_E_ITENS_Plane.MESA_E_ITENS_Plane
+[2022.09.14-04.28.08:335][202]LogContentValidation: Display: Validating Texture2D /Game/Textures/Textura_celular.Textura_celular
+[2022.09.14-04.28.08:336][202]LogContentValidation: Display: Validating Texture2D /Game/Textures/Textura_lapis.Textura_lapis
+[2022.09.14-04.28.08:341][203]Cmd: QUIT_EDITOR
+[2022.09.14-04.28.08:341][203]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.09.14-04.28.08:689][203]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.09.14-04.28.09:511][203]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.09.14-04.28.09:512][203]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.09.14-04.28.09:512][203]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2022.09.14-04.28.09:915][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.14-04.28.09:953][203]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.14-04.28.10:061][203]LogAudio: Display: Audio Device Manager Shutdown
+[2022.09.14-04.28.10:096][203]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.09.14-04.28.10:293][203]LogExit: Preparing to exit.
+[2022.09.14-04.28.11:517][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
